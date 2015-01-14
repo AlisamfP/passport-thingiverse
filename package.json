@@ -1,6 +1,6 @@
 {
   "name": "passport-thingiverse",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Thingiverse authentication strategy for Passport.",
   "author": "Alisa Palson <palson@alisa.codes> (http://alisa.codes/)",
   "repository": {
